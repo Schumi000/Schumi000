@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Schumi000
 - 👀 I’m interested in C# Desktop Development
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JAVA
 
 <!---
 Schumi000/Schumi000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
